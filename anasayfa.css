@@ -1,0 +1,165 @@
+body
+{
+background-image: linear-gradient(#BFEFFF,#000040);
+}
+#kapsayıcı
+{
+width:1010px;
+height:1210px;
+margin:auto;
+background-image: linear-gradient(#BFEFFF,#000040);
+}
+#logo
+{
+width:150px;
+height:150px;
+background-image:url(BD.png);
+float:left;
+margin-left:10px;
+margin-top:10px;
+}
+#menu
+{
+margin: 0px;
+padding: 0px;
+padding-top:40px;
+margin-top:auto;
+list-style-type:none;
+
+}
+#menu li
+{
+width:160px;
+
+}
+#menu li ul
+{
+display:none;
+left:247px;
+padding-top:200px;
+}
+#menu a
+{
+font-family:arial;
+font-size:20px;
+color:white;
+padding-top:5px;
+padding-right:5px;
+border:#000040 1px solid;
+text-align:center;
+text-decoration: none;
+background-color:white; 
+line-height:30px;
+margin-right:2px;
+background-color:lightblue;
+
+}
+#menu a:hover
+{
+color:#900;
+color:orange;
+background-color:black;
+}
+#menu li:hover ul
+{
+display:block;
+position:absolute;
+right:0px;
+top:0px; 
+
+}
+#banner
+{
+text-align:center;
+margin-top:-150px;
+margin-right:30px;
+float:right;
+margin-left:10px;
+width:800px;
+height:303px;
+background-image:url(bg.jpg);
+}
+#orta
+{
+margin-top:7px;
+float:left;
+margin-left:10px;
+width:980px;
+height:26px;
+background-image:url(divider.png);
+}
+.sol
+{
+float:left;
+margin-top:425px;
+margin-left:10px;
+width:550px;
+height:158px;
+
+}
+.yazı
+{
+font-size:17px;
+color:black;
+}
+.cizgi
+{
+border:black 1px dotted;
+}
+.yazı2
+{
+background:url(örnek2.html);
+}
+.yazı4
+{
+text-align:center;
+font-size:15px;
+color:white;
+}
+.yazı5
+{
+font-size:15px;
+color:blue;
+}
+#alt
+{
+text-align:center;
+float:right;
+margin-right:20px;
+margin-top:30px;
+width:980px;
+height:30px;
+}
+.yazı3
+{
+text-align:center;
+font-size:25px;
+color:white;
+}
+#orta1
+{
+float:right;
+text-align:center;
+background-image:url(divider.png);}
+.sag
+{
+float:right;
+margin-top:425px;
+width:450px;
+height:158px;
+}
+.yazı6
+{
+text-align:center;
+font-size:25px;
+color:white;
+float:right;
+}
+h3
+{
+	font-size:25px;
+    color:white;
+	text-align:center;
+	padding-top:60px;
+	padding-right:600px;
+}
